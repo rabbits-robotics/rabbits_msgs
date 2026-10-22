@@ -11,6 +11,7 @@ set(msg_files
   "msg/AttractsCommand.msg"
   "msg/GameDataInput.msg"
   "msg/GameDataRobot.msg"
+  "msg/ReferenceCommand.msg"
 )
 # set(srv_files
 #   "srv/CalcTwoFloats.srv"
